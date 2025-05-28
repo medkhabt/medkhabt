@@ -26,3 +26,32 @@ Here are some ideas to get you started:
 
 
 ### A life long student passionate about building stuff.
+
+- 🔭 I’m currently working on my master thesis on level planar graph drawing.
+- 🌱 I’m currently learning parallel programming in the university of Passau, more specifically about MPI and openMP
+
+<br>
+
+<div align="center">
+  <a href="mohamedkhalil.loukhnati@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-khalil-loukhnati/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr>
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,c,cpp,golang,python,bash,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,postman,latex,docker" />
+</p>
+
+<hr>
+
+## 
