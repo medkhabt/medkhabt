@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Khalil+Loukhnati!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=robot&size=32&center=true&weight=200&vCenter=true&width=800&height=70&color=4493F8&duration=1000&pause=2000&lines=Hi+there;I+am+Khalil+Loukhnati;Ich+hei%C3%9Fe+Khalil+Loukhnati;Je+m'appelle+Khalil+Loukhnati;Smiti+Khalil+Loukhnati" />
 </h1>
 
 
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
 <br>
 
@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 </p>
 
 <hr>
+
 ## Editor 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vim" />
@@ -60,7 +61,7 @@ Here are some ideas to get you started:
   You can find my vimrc and other dotfiles for my current setup in [my dotfiles](https://github.com/medkhabt/dotfiles)
 <br>
 
-## ⚡️ Stats
+## Stats
 
 <br>
 
