@@ -15,11 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/medkhabt/count.svg" alt="Visitor's Count" />
-</div>
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=robot&size=32&center=true&weight=200&vCenter=true&width=800&height=70&color=4493F8&duration=1000&pause=2000&lines=Hi+there;I+am+Khalil+Loukhnati;Ich+hei%C3%9Fe+Khalil+Loukhnati;Je+m'appelle+Khalil+Loukhnati;Smiti+Khalil+Loukhnati" />
 </h1>
