@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 
 ### A life long student passionate about building stuff.
 
-- I’m currently working on my master thesis on level planar graph drawing.
-- I’m currently learning parallel programming in the university of Passau, more specifically about MPI and openMP
+- I am currently working as a Devops working student at Cyan-IT.
+- I am in the middle of my master thesis on level planar graph drawing.
+
 
 <hr>
 
